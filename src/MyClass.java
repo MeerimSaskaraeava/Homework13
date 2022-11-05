@@ -1,9 +1,9 @@
 public class MyClass {
-    String myName;
-    String mySurname;
-    byte myAge;
-    String[] myLessons;
-    String myFavouriteFood;
+    private String myName;
+    private String mySurname;
+    private byte myAge;
+    private String[] myLessons;
+    private String myFavouriteFood;
 
     public MyClass(String myName, String mySurname, byte myAge){
         this.myName=myName;
